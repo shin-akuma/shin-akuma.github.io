@@ -70,13 +70,13 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: left
+      - layout: top
         title: The University of Auckland
         sub_title: Master of Science with Honours (Computer Science)
         caption: 2013 - 2015
         quote: >
           Completed a thesis on Digial Identity Assurance
-      - layout: left
+      - layout: top
         title: University of Canterbury
         sub_title: Postgraduate Diploma in Science with Distinction (Computer Security and Forensics)
         caption: 2010 - 2011
