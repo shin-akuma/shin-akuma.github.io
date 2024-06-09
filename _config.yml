@@ -71,13 +71,17 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: The University of Auckland
+        sub_title: Master of Science with Honours (Computer Science)
+        caption: 2013 - 2015
         quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          Completed a thesis on Digial Identity Assurance
+      - layout: top-right
+        title: University of Canterbury
+        sub_title: Postgraduate Diploma in Science with Distinction (Computer Security and Forensics)
+        caption: 2010 - 2011
+        quote: >
+          Made to Dean's list twice in a row
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
