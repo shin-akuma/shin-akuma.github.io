@@ -47,7 +47,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top
+      - layout: top-middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: ITSM Integration With Azure ESLZ, Cloud Deployment and IAM
