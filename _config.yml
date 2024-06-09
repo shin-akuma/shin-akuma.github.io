@@ -41,7 +41,7 @@ linkedin_username: jason-xiao-li
 about_title: About Me
 about_profile_image: images/profile.jfif
 about_content: | # this will include new lines to allow paragraphs
-  I’m a seasoned Cloud Specialist with a strong focus on delivering tangible business outcome with tailor made cloud solutions. I bring with me a wealth of knowledge and experience in Cloud Adoption, Cloud Native Development, Application Optimisation and Platform Engineering. My track records span from Corporate, Public Sector, FSI, Consultancy to ISV. Recently been wearing Principal Consultant and Azure Practice Lead hats, I provide thought leadership and DevSecOps best practices to both my team and my clients.
+  I’m a seasoned Cloud Specialist with a strong focus on delivering tangible business outcome with tailor made cloud solutions. I bring with me a wealth of knowledge and experience in <mark>Cloud Adoption</mark>, <mark>Cloud Native Development</mark>, <mark>Application Optimisation</mark> and <mark>Platform Engineering</mark>. My track records span from Corporate, Public Sector, FSI, Consultancy to ISV. Recently been wearing Principal Consultant and Azure Practice Lead hats, I provide thought leadership and DevSecOps best practices to both my team and my clients.
 
 content:
   - title: Projects # Title for the section
