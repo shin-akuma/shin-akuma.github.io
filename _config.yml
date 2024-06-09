@@ -38,16 +38,10 @@ linkedin_username: jason-xiao-li
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_title: About Me
+about_profile_image: images/profile.jfif
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  I’m a seasoned Cloud Specialist with a strong focus on delivering tangible business outcome with tailor made cloud solutions. I bring with me a wealth of knowledge and experience in Cloud Adoption, Cloud Native Development, Application Optimisation and Platform Engineering. My track records span from Corporate, Public Sector, FSI, Consultancy to ISV. Recently been wearing Principal Consultant and Azure Practice Lead hats, I provide thought leadership and DevSecOps best practices to both my team and my clients.
 
 content:
   - title: Projects # Title for the section
