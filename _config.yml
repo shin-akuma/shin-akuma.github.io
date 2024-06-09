@@ -50,11 +50,11 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: ServiceNow Integration With Enterprise-Scale Azure Landing Zone and Persona Based IAM Framework
+        title: ITSM Integration With Azure ESLZ, Cloud Deployment and IAM
         quote: >
           Most recent project
         description: | # this will include new lines to allow paragraphs
-          Integrated client's ESLZ and IAM Framework with their core ITSM tool, from both tooling and process persepctives. So that subscription vending and access provisioning/deprovisoning become part of Service Catelogue and can be requested and consumed by divisional teams seamlessly
+          Integrated client's Enterprise Landing Zone, IaC Deployment and Persona Based IAM Framework with their ServiceNow Systems, from both tooling and process persepctives. So that subscription vending, infrastructure deployment and access provisioning/deprovisoning become part of IT Service Catelogue and can be requested and consumed by divisional teams seamlessly
   - title: Experience
     layout: list
     content:
