@@ -47,7 +47,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: ITSM Integration With Azure ESLZ, Cloud Deployment and IAM
@@ -58,7 +58,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: Company name
         sub_title: Job title
         caption: Date Range (eg. November 2016 - present)
@@ -70,13 +70,13 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: left
         title: The University of Auckland
         sub_title: Master of Science with Honours (Computer Science)
         caption: 2013 - 2015
         quote: >
           Completed a thesis on Digial Identity Assurance
-      - layout: top-right
+      - layout: left
         title: University of Canterbury
         sub_title: Postgraduate Diploma in Science with Distinction (Computer Security and Forensics)
         caption: 2010 - 2011
