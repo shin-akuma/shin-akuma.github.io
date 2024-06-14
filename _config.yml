@@ -201,7 +201,7 @@ content:
         title: Citrix
         description: Professional - Networking (CCP - N)
   - title: Technical Skills
-    layout: text
+    layout: top-middle
     content: | # this will include new lines to allow paragraphs
       Cloud Architecture
 
@@ -219,7 +219,7 @@ content:
 
       IAM Solutions
   - title: Toolbox
-    layout: text
+    layout: top-middle
     content: | # this will include new lines to allow paragraphs
       Powershell
 
