@@ -95,11 +95,11 @@ content:
           Steering internal product development which are currently co-selling with Microsoft NZ
       - layout: left
         title: Cin7
-        sub_title: Various Roles
+        sub_title: DevOps Manager
         caption: May 2018 - July 2019
         link: https://cin7.com/
         quote: >
-          DevOps Manager
+          Started as Senior SRE, later promoted to DevOps Manager
         description: |
           A key player in a milestone project that migrated the entire Cin7 infrastructure from Datacentre to Azure which includes Terabytes of data, tens of VMs, and a number of mission critical applications. All of which was completed under 6 hours with minimum user impact.
           Started the initiative of “template everything when possible, script everything when possible”
