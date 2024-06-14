@@ -124,6 +124,19 @@ content:
           Defined DevOps team's operation model, service offerings, built trusted relationship with the product and engineering teams
           
           Grow the team both vertically and horizontally to cope with the rapidly increasing customer volume.
+      - layout: left
+        title: Various Roles
+        caption: Nov 2010 - May 2018
+        quote: >
+          Started as a Java Developer, later became a DotNet Developer, then became a DevOps Engineer
+        description: |
+          Developed and Implemented SAML2 based Single Sing-On solution at UoA, still being used at present time
+
+          Build CI/CD pipelines for both on-premise and cloud environments at IAG. Jenkins & Nexus & BitBucket for on-prem. VSTS & ARM & Azure Functions for cloud
+
+          Sole DevOps engineer for two scrum teams (large digitalization project), started the initiative to containerise disposable service components such as mocks, test automation and static code analysis
+
+          Main contributor and maintainer of shared Powershell modules and code libraries for the entire digital platform
 
   - title: Education
     layout: list
@@ -155,7 +168,7 @@ content:
           DevOps Engineer Expert
 
           Azure Security Engineer Associate
-          
+
           Azure Solutions Architect Expert
       - layout: top
         title: Google
