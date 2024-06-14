@@ -200,7 +200,7 @@ content:
       - layout: top
         title: Citrix
         description: Professional - Networking (CCP - N)
-  - title: Useful Skills
+  - title: Technical Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
       Cloud Architecture
