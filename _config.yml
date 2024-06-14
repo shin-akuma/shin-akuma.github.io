@@ -68,7 +68,7 @@ content:
                       # other value (or no value) means no border will be displayed
         title: Multi-tenanted AKS implementation
         quote: >
-          Most recent project
+          Makes K8S work for FSI
         description: | # this will include new lines to allow paragraphs
           Led the implementation of 2 critical Azure Kubernetes clusters for a large fund management client. Splitting the IaC into serveral layers, Terraform to deploy the core AKS clusters and their supporting Azure services, another Terraform repo to manage namespaces and their respective roles and role bindings, and Helm to deploy the actual application workloads along with sidecars. With all the layers of the infrastructure codified and managed via gitops, the client teams were able to take ownership of this rather complex system with ease.
       - layout: top-middle
