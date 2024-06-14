@@ -149,7 +149,7 @@ content:
     content:
       - layout: top
         title: Microsoft
-        sub_title: |
+        description: |
           Azure Developer Associate
 
           DevOps Engineer Expert
@@ -159,10 +159,10 @@ content:
           Azure Solutions Architect Expert
       - layout: top
         title: Google
-        sub_title: Professional Cloud DevOps Engineer
+        description: Professional Cloud DevOps Engineer
       - layout: top
         title: Citrix
-        sub_title: Professional - Networking (CCP - N)
+        description: Professional - Networking (CCP - N)
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
