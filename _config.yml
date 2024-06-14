@@ -67,6 +67,7 @@ content:
           Principal Cloud Consultant
         description: |
           Being a Principal Consultant, I'm responsible for the delivery and growth of our key accounts. For the one which I've been the site lead from the beginning, an initial Well Architected Framework assessment turned into a program of work that has lasted for more than 18 months and consists of 6 SoWs and 2 parallel streams. We manage to significantly improve their Cloud ROI by uplifting tools, processes, and people capabilities. Client Satisfaction has constantly been at the top. 
+
           I'm also part of the Azure Practice Leadership and have led the development of multiple Azure offerings including Enterprise Scale Landing Zone, FinOps Framework, and OpenAI accelerator. I also organised regular mentoring sessions and Azure cert jam for our internal consultants to improve their capability in Azure space.
       - layout: left
         title: LAB3
@@ -76,8 +77,9 @@ content:
         quote: >
           Principal Azure Consultant
         description: |
-          As a principal consultant at Lab3, my main responsibility is to own the end-to-end delivery of a solution. Solution can either be a client engagement, or one phase in a larger program of work, or a feature of an internal product. I'm responsible for leading a small squad consisting of developers and DevOps engineers. I have basically been wearing the hats of pre-sale consultant, scrum master, technical escalation point, cheerleader and the one managing expectations of external clients, internal client executives and product owners for the team. 
-          I'm often the designer of the solution and the one with a holistic understanding of the problem we are trying to solve. I hold very close relationships with my teammates, I understand their strength, their challenges. their work (and life) priority and their career ambition through regular catch-ups and Agile ceremonies. Another part of my job is to be the trustworthy non-sales person to address client's concerns and enquiries throughout the engagement. I also very often roll-up my sleeves and contribute to the codebase, reason being I always make sure my teammates get the most rewarding and interesting tasks, while I play the role of concrete laying or drainage unblocking.
+          As a principal consultant at Lab3, my main responsibility is to own the end-to-end delivery of a solution. Solution can either be a client engagement, or one phase in a larger program of work, or a feature of an internal product. I'm responsible for leading a small squad consisting of developers and DevOps engineers. I have basically been wearing the hats of pre-sales, scrum master, technical escalation point, cheerleader and the one managing expectations of external clients, internal client executives and product owners for the team. 
+
+          I'm often the designer of the solution and the one with a holistic understanding of the problem we are trying to solve. I hold very close relationships with my teammates, I understand their strength, their challenges. their work (and life) priority and their career ambition through regular catch-ups and performance reviews. Another part of my job is to be the trustworthy non-sales person to address client's concerns and enquiries throughout the engagement. I'm a major contributor to coding standard, re-usable patterns, modules and libraries within the company.
       - layout: left
         title: Leaven (Spark Business Group)
         sub_title: Cloud DevOps Tech Lead
@@ -87,11 +89,15 @@ content:
           Cloud DevOps Tech Lead
         description: |
           Leading high-profile engagements ranging from Cloud migration, Application modernisation to Middleware development:
+
           •	2 of my projects entered Microsoft Partners Awards finalists. 
+          
           •	2 nominated for Reseller Innovation Awards
           
           Escalation point for technical issues within Azure practice
+
           Mentoring and providing technical guidance to peers
+
           Steering internal product development which are currently co-selling with Microsoft NZ
       - layout: left
         title: Cin7
@@ -102,15 +108,25 @@ content:
           Started as Senior SRE, later promoted to DevOps Manager
         description: |
           A key player in a milestone project that migrated the entire Cin7 infrastructure from Datacentre to Azure which includes Terabytes of data, tens of VMs, and a number of mission critical applications. All of which was completed under 6 hours with minimum user impact.
+          
           Started the initiative of “template everything when possible, script everything when possible”
+          
           Continuously improving the Azure Infrastructure Design post migration and slowly moving towards PaaS
+          
           Introduced Custom Build Tasks to Cin7’s CD pipelines; achieved zero-downtime deployment
+          
           Acted as a communication hub between MS Fast-track team, Partners and internal stakeholders during and after Cloud Migration; hosted technical discussions, weekly catch-ups and solution design presentations
+          
           Mentoring Developers and teammates on Azure and DevOps subjects
+          
           Contributing to Code Quality Control and General Bug-fixing
+          
           Promoted to the newly created DevOps Manager role to take the ownership of the DevOps team (used to be under the direct management of CIO)
+          
           Manage all the available resources including internal team members, vendors and partners to ensure the platform is tuned to run at the highest level of performance.
+          
           Support the product and engineering teams so that high quality code is shipped to production promptly and seamlessly.
+          
           Grow the team both vertically and horizontally to cope with the rapidly increasing customer base.
   - title: Education
     layout: list
