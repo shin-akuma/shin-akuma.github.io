@@ -111,12 +111,12 @@ content:
         link: https://concepts.co.nz/
         quote: >
           Cloud DevOps Tech Lead
-        description: |
+        description: | # this will include new lines to allow paragraphs
           Lead high-profile engagements ranging from Cloud migration, Application modernisation to Middleware development:
 
-          •	2 of my projects entered Microsoft Partners Awards finalists. 
+          * 2 of my projects entered Microsoft Partners Awards finalists. 
           
-          •	2 nominated for Reseller Innovation Awards
+          * 2 nominated for Reseller Innovation Awards
           
           Escalation point for technical issues within Azure practice
 
@@ -130,7 +130,7 @@ content:
         link: https://cin7.com/
         quote: >
           Started as Senior SRE, later promoted to DevOps Manager
-        description: |
+        description: | # this will include new lines to allow paragraphs
           A key player in a milestone project that migrated the entire Cin7 infrastructure from Datacentre to Azure under 6 hours with minimum user impact.
           
           Started the initiative of “template all infrastructure, script all tasks”
@@ -153,7 +153,7 @@ content:
         caption: Nov 2010 - May 2018
         quote: >
           Started as a Java Developer, later became a DotNet Developer, then became a DevOps Engineer
-        description: |
+        description: | # this will include new lines to allow paragraphs
           Developed and Implemented SAML2 based Single Sing-On solution at UoA, still being used at present time
 
           Built CI/CD pipelines for both on-premise and cloud environments at IAG. Jenkins & Nexus & BitBucket for on-prem. VSTS & ARM & Azure Functions for cloud
@@ -186,14 +186,14 @@ content:
     content:
       - layout: top
         title: Microsoft
-        description: |
-          Azure Developer Associate
+        description: | # this will include new lines to allow paragraphs
+          * Azure Developer Associate
 
-          DevOps Engineer Expert
+          * DevOps Engineer Expert
 
-          Azure Security Engineer Associate
+          * Azure Security Engineer Associate
 
-          Azure Solutions Architect Expert
+          * Azure Solutions Architect Expert
       - layout: top
         title: Google
         description: Professional Cloud DevOps Engineer
@@ -201,39 +201,39 @@ content:
         title: Citrix
         description: Professional - Networking (CCP - N)
   - title: Technical Skills
-    layout: top-middle
+    layout: text
     content: | # this will include new lines to allow paragraphs
-      Cloud Architecture
+      * Cloud Architecture
 
-      CI/CD enablement
+      * CI/CD enablement
 
-      API Development
+      * API Development
 
-      Hybrid Networking
+      * Hybrid Networking
 
-      Scripting
+      * Scripting
 
-      Integration Development
+      * Integration Development
 
-      Database Design
+      * Database Design
 
-      IAM Solutions
+      * IAM Solutions
   - title: Toolbox
-    layout: top-middle
+    layout: text
     content: | # this will include new lines to allow paragraphs
-      Powershell
+      * Powershell
 
-      Terraform
+      * Terraform
 
-      DotNet
+      * DotNet
 
-      Azure DevOps
+      * Azure DevOps
 
-      Kubernetes
+      * Kubernetes
 
-      SQL and DocumentDB
+      * SQL and DocumentDB
 
-      Azure Policy
+      * Azure Policy
       
 
 # Footer
