@@ -165,16 +165,14 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top
-        title: The University of Auckland
+      - title: The University of Auckland
         sub_title: Master of Science with Honours (Computer Science)
         description: |
           Completed a thesis on Digital Identity Assurance, inspired by my experience developing a Single Sign-On system for UoA which contains an Identity Verification Module.
         caption: 2013 - 2015
         quote: >
           Received Faculty of Science Masters Award and scholarship
-      - layout: top
-        title: University of Canterbury
+      - title: University of Canterbury
         sub_title: Postgraduate Diploma in Science with Distinction (Computer Security and Forensics)
         description: |
           Studied IT security, Information Warfare, Digital Forensics, Pen Testing and Sensor Network, planned to become a Whitehat.
