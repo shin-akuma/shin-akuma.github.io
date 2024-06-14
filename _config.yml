@@ -88,7 +88,7 @@ content:
         quote: >
           Cloud DevOps Tech Lead
         description: |
-          Leading high-profile engagements ranging from Cloud migration, Application modernisation to Middleware development:
+          Lead high-profile engagements ranging from Cloud migration, Application modernisation to Middleware development:
 
           •	2 of my projects entered Microsoft Partners Awards finalists. 
           
@@ -107,27 +107,24 @@ content:
         quote: >
           Started as Senior SRE, later promoted to DevOps Manager
         description: |
-          A key player in a milestone project that migrated the entire Cin7 infrastructure from Datacentre to Azure which includes Terabytes of data, tens of VMs, and a number of mission critical applications. All of which was completed under 6 hours with minimum user impact.
+          A key player in a milestone project that migrated the entire Cin7 infrastructure from Datacentre to Azure under 6 hours with minimum user impact.
           
-          Started the initiative of “template everything when possible, script everything when possible”
+          Started the initiative of “template all infrastructure, script all tasks”
           
           Continuously improving the Azure Infrastructure Design post migration and slowly moving towards PaaS
-          
-          Introduced Custom Build Tasks to Cin7’s CD pipelines; achieved zero-downtime deployment
-          
+        
           Acted as a communication hub between MS Fast-track team, Partners and internal stakeholders during and after Cloud Migration; hosted technical discussions, weekly catch-ups and solution design presentations
           
           Mentoring Developers and teammates on Azure and DevOps subjects
-          
-          Contributing to Code Quality Control and General Bug-fixing
           
           Promoted to the newly created DevOps Manager role to take the ownership of the DevOps team (used to be under the direct management of CIO)
           
           Manage all the available resources including internal team members, vendors and partners to ensure the platform is tuned to run at the highest level of performance.
           
-          Support the product and engineering teams so that high quality code is shipped to production promptly and seamlessly.
+          Defined DevOps team's operation model, service offerings, built trusted relationship with the product and engineering teams
           
-          Grow the team both vertically and horizontally to cope with the rapidly increasing customer base.
+          Grow the team both vertically and horizontally to cope with the rapidly increasing customer volume.
+
   - title: Education
     layout: list
     content:
@@ -147,7 +144,7 @@ content:
         title: Auckland University of Technology
         sub_title: Bachelor of Computer and Information Sciences
         caption: 2004 - 2008
-  - title: certificate
+  - title: Certificate
     layout: list
     content:
       - layout: top
