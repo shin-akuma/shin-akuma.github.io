@@ -143,6 +143,26 @@ content:
         caption: 2010 - 2011
         quote: >
           Made to Dean's list twice in a row
+      - layout: top
+        title: Auckland University of Technology
+        sub_title: Bachelor of Computer and Information Sciences
+        caption: 2004 - 2008
+  - title: certificate
+    layout: list
+    content:
+      - layout: top
+        title: Microsoft
+        sub_title: |
+          Azure Developer Associate
+          DevOps Engineer Expert
+          Azure Security Engineer Associate
+          Azure Solutions Architect Expert
+      - layout: top
+        title: Google
+        sub_title: Professional Cloud DevOps Engineer
+      - layout: top
+        title: Citrix
+        sub_title: Professional - Networking (CCP - N)
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
