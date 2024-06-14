@@ -151,8 +151,11 @@ content:
         title: Microsoft
         sub_title: |
           Azure Developer Associate
+
           DevOps Engineer Expert
+
           Azure Security Engineer Associate
+          
           Azure Solutions Architect Expert
       - layout: top
         title: Google
