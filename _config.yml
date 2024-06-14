@@ -196,10 +196,12 @@ content:
           * Azure Solutions Architect Expert
       - layout: top
         title: Google
-        description: Professional Cloud DevOps Engineer
+        description:  | # this will include new lines to allow paragraphs
+          * Professional Cloud DevOps Engineer
       - layout: top
         title: Citrix
-        description: Professional - Networking (CCP - N)
+        description:  | # this will include new lines to allow paragraphs
+          * Professional - Networking (CCP - N)
   - title: Technical Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
