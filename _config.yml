@@ -52,7 +52,7 @@ content:
                       # other value (or no value) means no border will be displayed
         title: ITSM Integration With Azure ESLZ, Cloud Deployment and IAM
         quote: >
-          Most recent project
+          Most recent project with the largest transport agency in Australia
         description: | # this will include new lines to allow paragraphs
           Integrated client's Enterprise Landing Zone, IaC Deployment and Persona Based IAM Framework with their ServiceNow Systems, from both tooling and process persepctives. So that subscription vending, infrastructure deployment and access provisioning/deprovisoning become part of IT Service Catelogue and can be requested and consumed by divisional teams seamlessly
       - layout: top-middle
