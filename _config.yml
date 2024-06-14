@@ -41,7 +41,7 @@ linkedin_username: jason-xiao-li
 about_title: About Me
 about_profile_image: images/profile.jfif
 about_content: | # this will include new lines to allow paragraphs
-  I’m a seasoned Cloud Specialist with a strong focus on delivering tangible business outcome with tailor made cloud solutions. I bring with me a wealth of knowledge and experience in <mark>Cloud Adoption</mark>, <mark>Cloud Native Development</mark>, <mark>Application Optimisation</mark> and <mark>Platform Engineering</mark>. My track records span from Corporate, Public Sector, FSI, Consultancy to ISV. Recently been wearing Principal Consultant and Azure Practice Lead hats, I provide thought leadership and DevSecOps best practices to both my team and my clients.
+  I’m a seasoned Cloud Specialist with a strong focus on delivering tangible business outcome with tailor made cloud solutions. I bring with me a wealth of knowledge and experience in <mark>Cloud Adoption</mark>, <mark>Cloud Native Development</mark>, <mark>Application Modernisation</mark> and <mark>Platform Engineering</mark>. My track records span from Corporate, Public Sector, FSI, Consultancy to ISV. Recently been wearing Principal Consultant and Azure Practice Lead hats, I provide thought leadership and DevSecOps best practices to both my team and my clients.
 
 content:
   - title: Projects # Title for the section
@@ -62,7 +62,7 @@ content:
         quote: >
           Key feature of company's most successful product offering
         description: | # this will include new lines to allow paragraphs
-          Developed the Migration Engine for VMWare/Hyper-V workloads to Azure. The engine consumes data from Azure Migrate assessments and Azure Landing Zone then automatically creates solution design diagram and datasheet declaring workload's Azure target state. Once the design is approved, it only takes a button click to migrate the workload into Azure.
+          Developed the Migration Engine for lifting VMWare/Hyper-V workloads to Azure. The engine consumes data from Azure Migrate assessments and Azure Landing Zone then automatically creates solution design diagram and datasheet declaring workload's Azure target state. Once the design is approved, it only takes a button click to migrate the workload into Azure.
       - layout: top-middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -200,12 +200,41 @@ content:
       - layout: top
         title: Citrix
         description: Professional - Networking (CCP - N)
-  - title: A Little More About Me
+  - title: Useful Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+      Cloud Architecture
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      CI/CD enablement
+
+      API Development
+
+      Hybrid Networking
+
+      Scripting
+
+      Integration Development
+
+      Database Design
+
+      IAM Solutions
+  - title: Toolbox
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Powershell
+
+      Terraform
+
+      DotNet
+
+      Azure DevOps
+
+      Kubernetes
+
+      SQL and DocumentDB
+
+      Azure Policy
+      
 
 # Footer
 footer_show_references: true
