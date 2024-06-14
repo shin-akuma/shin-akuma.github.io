@@ -55,6 +55,30 @@ content:
           Most recent project
         description: | # this will include new lines to allow paragraphs
           Integrated client's Enterprise Landing Zone, IaC Deployment and Persona Based IAM Framework with their ServiceNow Systems, from both tooling and process persepctives. So that subscription vending, infrastructure deployment and access provisioning/deprovisoning become part of IT Service Catelogue and can be requested and consumed by divisional teams seamlessly
+      - layout: top-middle
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Rapid VM Migration Engine
+        quote: >
+          Key feature of company's most successful product offering
+        description: | # this will include new lines to allow paragraphs
+          Developed the Migration Engine for VMWare/Hyper-V workloads to Azure. The engine consumes data from Azure Migrate assessments and Azure Landing Zone then automatically creates solution design diagram and datasheet declaring workload's Azure target state. Once the design is approved, it only takes a button click to migrate the workload into Azure.
+      - layout: top-middle
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Multi-tenanted AKS implementation
+        quote: >
+          Most recent project
+        description: | # this will include new lines to allow paragraphs
+          Led the implementation of 2 critical Azure Kubernetes clusters for a large fund management client. Splitting the IaC into serveral layers, Terraform to deploy the core AKS clusters and their supporting Azure services, another Terraform repo to manage namespaces and their respective roles and role bindings, and Helm to deploy the actual application workloads along with sidecars. With all the layers of the infrastructure codified and managed via gitops, the client teams were able to take ownership of this rather complex system with ease.
+      - layout: top-middle
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Enterprise Scale Landing Zone Solution for a large government agency
+        quote: >
+          Homebrew Terraform Landing Zone Solution before CAF supermodule
+        description: | # this will include new lines to allow paragraphs
+          Developed and delivered an Enterprise Scale Landing Zone for one of the largest government agency in NZ, with Terraform, Azure Policy and Azure DevOps.The solution extended on the Cloud Adoption Framework principles and adopted a multi-layered approach which consisted of Security and Compliance layer, Network Layer, Monitoring and Alerting Layer, and Workload Layer. Each layer is managed by its own pipeline and state file, which ensures segregation of duties for different internal IT teams. The network topology is global transit network with cross-region hubs to support their intertional locations. The Landing Zone provided baselines and guardrails for the agency to meet compliance and security requirements as well as unified and centralised control plane for their future Azure workloads.
   - title: Experience
     layout: list
     content:
@@ -132,7 +156,7 @@ content:
         description: |
           Developed and Implemented SAML2 based Single Sing-On solution at UoA, still being used at present time
 
-          Build CI/CD pipelines for both on-premise and cloud environments at IAG. Jenkins & Nexus & BitBucket for on-prem. VSTS & ARM & Azure Functions for cloud
+          Built CI/CD pipelines for both on-premise and cloud environments at IAG. Jenkins & Nexus & BitBucket for on-prem. VSTS & ARM & Azure Functions for cloud
 
           Sole DevOps engineer for two scrum teams (large digitalization project), started the initiative to containerise disposable service components such as mocks, test automation and static code analysis
 
