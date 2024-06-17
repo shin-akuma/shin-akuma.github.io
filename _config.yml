@@ -54,7 +54,7 @@ content:
         quote: >
           Most recent project with the largest transport agency in Australia
         description: | # this will include new lines to allow paragraphs
-          Integrated client's Enterprise Landing Zone, IaC Deployment and Persona Based IAM Framework with their ServiceNow Systems, from both tooling and process persepctives. So that subscription vending, infrastructure deployment and access provisioning/deprovisoning become part of IT Service Catelogue and can be requested and consumed by divisional teams seamlessly
+          Integrated client's Enterprise Landing Zone, IaC Deployment and Persona Based IAM Framework with their ServiceNow Systems, from both tooling and process perspectives. So that subscription vending, infrastructure deployment and access provisioning/deprovisioning become part of IT Service Catalogue and can be requested and consumed by divisional teams seamlessly
       - layout: top-middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -70,7 +70,7 @@ content:
         quote: >
           Made K8S work for FSI
         description: | # this will include new lines to allow paragraphs
-          Led the implementation of 2 critical Azure Kubernetes clusters for a large fund management client. Splitting the IaC into serveral layers, Terraform to deploy the core AKS clusters and their supporting Azure services, another Terraform repo to manage namespaces and their respective roles and role bindings, and Helm to deploy the actual application workloads along with sidecars. With all the layers of the infrastructure codified and managed via gitops, the client teams were able to take ownership of this rather complex system with ease.
+          Led the implementation of 2 critical Azure Kubernetes clusters for a large fund management client. Splitting the IaC into several layers, Terraform to deploy the core AKS clusters and their supporting Azure services, another Terraform repo to manage namespaces and their respective roles and role bindings, and Helm to deploy the actual application workloads along with sidecars. With all the layers of the infrastructure codified and managed via gitops, the client teams were able to take ownership of this rather complex system with ease.
       - layout: top-middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -78,7 +78,7 @@ content:
         quote: >
           Homebrew Terraform Landing Zone Solution before CAF supermodule
         description: | # this will include new lines to allow paragraphs
-          Developed and delivered an Enterprise Scale Landing Zone for one of the largest government agency in NZ, with Terraform, Azure Policy and Azure DevOps.The solution extended on the Cloud Adoption Framework principles and adopted a multi-layered approach which consisted of Security and Compliance layer, Network Layer, Monitoring and Alerting Layer, and Workload Layer. Each layer is managed by its own pipeline and state file, which ensures segregation of duties for different internal IT teams. The network topology is global transit network with cross-region hubs to support their intertional locations. The Landing Zone provided baselines and guardrails for the agency to meet compliance and security requirements as well as unified and centralised control plane for their future Azure workloads.
+          Developed and delivered an Enterprise Scale Landing Zone for one of the largest government agency in NZ, with Terraform, Azure Policy and Azure DevOps. The solution extended on the Cloud Adoption Framework principles and adopted a multi-layered approach which consisted of Security and Compliance layer, Network Layer, Monitoring and Alerting Layer, and Workload Layer. Each layer is managed by its own pipeline and state file, which ensures segregation of duties for different internal IT teams. The network topology is global transit network with cross-region hubs to support their international locations. The Landing Zone provided baselines and guardrails for the agency to meet compliance and security requirements as well as unified and centralised control plane for their future Azure workloads.
   - title: Experience
     layout: list
     content:
