@@ -131,7 +131,7 @@ content:
         quote: >
           Started as Senior SRE, later promoted to DevOps Manager
         description: | # this will include new lines to allow paragraphs
-          A key player in a milestone project that migrated the entire Cin7 infrastructure from Datacentre to Azure under 6 hours with minimum user impact.
+          A key player in a milestone project that migrated the entire Cin7 infrastructure from Datacentre to Azure with sub 6-hour downtime.
           
           Started the initiative of “template all infrastructure, script all tasks”
           
@@ -238,10 +238,18 @@ content:
       * SQL and DocumentDB
 
       * Azure Policy
+  - title: References
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      * Adarsh Jupudi - Distinguished Engineer - ASB
+
+      * Johnpaul Thomas - Senior Manager - Accenture
+
+      * Roger Chen - Principal Engineer - Lab3
       
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
